@@ -6,7 +6,7 @@ export default function Card() {
           <a href="#!" data-mdb-ripple="true" data-mdb-ripple-color="light">
             <img
               class="rounded-t-lg"
-              src="https://mdbootstrap.com/img/new/standard/nature/182.jpg"
+              src="/images/image-qr-code.png"
               alt=""
             />
           </a>
