@@ -16,7 +16,9 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
+      <div className='grid h-screen place-items-center'>
         <Card />
+      </div>
       </main>
     </>
   )
