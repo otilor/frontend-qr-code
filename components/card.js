@@ -17,7 +17,7 @@ export default function Card() {
           <div class="p-6">
             <h5 class="text-gray-900 text-xl font-medium mb-2">Improve your front-end skills by building projects</h5>
             <p class="text-gray-700 text-base mb-4">
-              Scan the QR code to visit Frontend Mentor and take your coding skills to the next level.
+              Scan the QR code to visit Frontend Mentor and take your coding skills to the next level
             </p>
             <button
               type="button"
