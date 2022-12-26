@@ -1,0 +1,1 @@
+# frontend-qr-code
